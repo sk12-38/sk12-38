@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'am Seokhui Lee 👋
 
 This GitHub profile is a place where I organize my finance and quantitative research projects using Python and data analysis.
 
