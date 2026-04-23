@@ -1,7 +1,5 @@
 # Seokhui Lee
 
-## 한국어
-
 Python과 데이터 분석을 활용해 진행한 금융시장, 자산가격, 포트폴리오 관련 프로젝트를 정리하는 GitHub 프로필입니다.
 
 주요 프로젝트는 한국 주식시장과 ETF 시장을 기반으로 하며, factor strategy, index tracking, beta estimation, risk measurement, empirical asset pricing paper replication 등을 다룹니다. 각 저장소에는 가능한 범위에서 분석 workflow, code, 주요 결과, 발표 자료를 함께 정리했습니다.
@@ -38,8 +36,6 @@ Python, pandas, NumPy, statsmodels, PyTorch, scikit-learn, matplotlib, Jupyter N
 FnGuide DataGuide/Quantiwise, WRDS CRSP/Compustat 
 
 ---
-
-## English
 
 This GitHub profile organizes my finance, quantitative research, database, and systems programming projects using Python, data analysis, SQL, and C.
 
