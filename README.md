@@ -37,6 +37,8 @@ Python, pandas, NumPy, statsmodels, PyTorch, scikit-learn, matplotlib, Jupyter N
 ### Data
 FnGuide DataGuide/Quantiwise, WRDS CRSP/Compustat 
 
+---
+
 ## English
 
 This GitHub profile organizes my finance, quantitative research, database, and systems programming projects using Python, data analysis, SQL, and C.
